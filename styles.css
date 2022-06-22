@@ -26,7 +26,7 @@
     background-color: #333232;
 }
 
-#count {
+/* #count {
     color: rgb(193, 193, 193);
     font-size: 24px;
     line-height: 24px;
@@ -49,3 +49,27 @@
 #count:active {
     background: darkred;
 }
+
+#newWorker {
+    color: rgb(255, 249, 239);
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    border-radius: 10px;
+    font-family: Georgia, serif;
+    font-weight: normal; 
+    text-decoration: none; 
+    font-style: normal; 
+    font-variant: normal; 
+    text-transform: none; 
+    background-image: radial-gradient(rgb(16, 62, 92) 0%, rgb(20, 77, 115) 0%, rgb(12, 46, 69) 100%); 
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
+    border: 2px solid rgb(28, 110, 164); 
+    display: inline-block;
+}
+#newWorker:hover {
+    background: #103E5C; 
+}
+#newWorker:active {
+    background: #0C2E45; 
+} */
